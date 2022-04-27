@@ -1,1 +1,1 @@
-<iframe src="https://insights.arcgis.com/index.html?rsource=https%3A%2F%2Fwww.esri.com%2Fen-us%2Farcgis%2Fproducts%2Farcgis-insights%2Fsign-in#/embed/e4888fb7f27c48a79827538a7bd7da69" width="100%" height="1190" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/index.html?rsource=https%3A%2F%2Fwww.esri.com%2Fen-us%2Farcgis%2Fproducts%2Farcgis-insights%2Fsign-in#/embed/e4888fb7f27c48a79827538a7bd7da69" width="1000" height="1190" frameborder="0"></iframe>
